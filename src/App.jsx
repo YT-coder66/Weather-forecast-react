@@ -48,7 +48,7 @@ function WeatherApp() {
 
             if (!input.trim()) return; 
 
-            // setWeather({ ...weather, loading: true, error: false });
+            // setWeather(prev => ({ ...weather, loading: true, error: false }));
 
             const api_key = '10eccf27e80ed319fcc42512b3c6d1d8';
             const url = 'https://api.openweathermap.org/data/2.5/weather';
@@ -62,10 +62,10 @@ function WeatherApp() {
                     },
                 });
 
-                setWeather({ data: res.data, loading: false, error: false });
+                setWeather(prev => ({ data: res.data, loading: false, error: false }));
                 
             } catch (error) {
-                setWeather({ data: {}, loading: false, error: true });
+                setWeather(prev => ({ data: {}, loading: false, error: true }));
                 
                 console.error('Error fetching weather:', error);
             };
