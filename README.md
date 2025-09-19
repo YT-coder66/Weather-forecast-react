@@ -1,6 +1,7 @@
 Weather-Forecast-React
 
 
+![Weather App Screenshot](./screenshots/weather-app2.png)
 ![Weather App Screenshot](./screenshots/weather-app.png)
 
 
