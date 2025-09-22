@@ -4,16 +4,11 @@ This is a React Weather App that shows the current weather, temperature, wind sp
 
 ---
 
-## Author
-
-Yasin Tajali
+## Author Media
 
 - GitHub: [YT-Coder66](https://github.com/YT-coder66/)
     
 - LinkedIn: [Linkedin-Page](https://www.linkedin.com/in/yasin-tajali-malek-jahan-reactdev/)
-
-- Email: pr0grmer6cd@gmail.com
-
 
 ---
 
