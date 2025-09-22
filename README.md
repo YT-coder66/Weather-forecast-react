@@ -29,7 +29,6 @@ Yasin Tajali
 - Display current temperature, weather condition, humidity, wind speed, etc.a
 - Error handling for invalid city names or network issues
 - Responsive design for all screen sizes
-- Simple, clean UI with intuitive UX
 
 ---
 
