@@ -73,7 +73,9 @@ Yasin Tajali
 
 ## bash
 - git clone https://github.com/yourusername/react-weather-app.git
+
 - cd react-weather-app
+
 - npm install
 
 ---
