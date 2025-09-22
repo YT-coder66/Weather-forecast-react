@@ -21,7 +21,7 @@ This is a React Weather App that shows the current weather, temperature, wind sp
 ## Features
 
 - Search weather by city name
-- Display current temperature, weather condition, humidity, wind speed, etc.a
+- Display current temperature, weather condition, humidity, wind speed, etc.
 - Error handling for invalid city names or network issues
 - Responsive design for all screen sizes
 
